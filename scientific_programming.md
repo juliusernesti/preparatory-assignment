@@ -1,6 +1,3 @@
-I was unable to read the paper by Wilson et al. (2014) because the server is down.
-
-That's why I am answering the questions without going into the paper.
 
 # 1.
 #### The paper describes several problems scientist face when performing scientific data analyses. From your experience in performing GIS and general data analyses, which of these problems seem familiar to you? Have you faced other problems not mentioned in the paper? (~100 words)
